@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+*.jar
+
+out
+.idea
+theMP3Grabber.iml
+src/youtube.properties
+src/META-INF
